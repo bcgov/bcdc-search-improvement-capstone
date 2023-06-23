@@ -1,7 +1,6 @@
 <!-- badges: start -->
 
-[![img](https://img.shields.io/badge/Lifecycle-Stable-97ca00)](https://github.com/bcgov/repomountie/blob/8b2ebdc9756819625a56f7a426c29f99b777ab1d/doc/state-badges.md)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/license/apache-2-0/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/license/apache-2-0/)[![img](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 
 <!-- badges: end -->
 
@@ -33,7 +32,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 ```
 Copyright 2023 Province of British Columbia
 
-Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);
+Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
