@@ -1,21 +1,21 @@
 <!-- badges: start -->
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/license/apache-2-0/)[![img](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/license/apache-2-0/)[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 
 <!-- badges: end -->
 
-bcdc-search-improvement-capstone
-============================
+## bcdc-search-improvement-capstone
 
-### Usage
-
-
-
-#### Example
-
-
+A UBC MDS Capstone project focused on a proof-of-concept of the application of natural language processing modeling to improve the user search experience of the [B.C. Data Catalogue](https://catalogue.data.gov.bc.ca/datasets).
 
 ### Project Status
+Work In Progress
+
+### Problem Statement
+
+### Data Sources
+
+### Software
 
 ### Getting Help or Reporting an Issue
 
