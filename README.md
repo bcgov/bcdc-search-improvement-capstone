@@ -14,7 +14,7 @@ Work In Progress
 ### Problem Statement
 
 ### Data Sources
-B.C. Data Catalogue text data: sourced from the [B.C. Catalogue](https://catalogue.data.gov.bc.ca/dataset/bc-data-catalogue-content) under the [Open Government Licence - British Columbia](https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc).
+B.C. Data Catalogue text data: sourced directly from the [B.C. Data Catalogue](https://catalogue.data.gov.bc.ca/dataset/bc-data-catalogue-content) available under the [Open Government Licence - British Columbia](https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc).
 
 ### Software
 
