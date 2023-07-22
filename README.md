@@ -28,6 +28,10 @@ If you would like to contribute, please see our [CONTRIBUTING](CONTRIBUTING.md) 
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
+### Dependencies
+Solr is an open source search platform built on [Apache Lucene](https://lucene.apache.org/). We used Solr 6.6.6 in this project. The license for Solr can be found at solr/LICENSE.txt.
+We also used [Vector Scoring Plugin for Solr](https://github.com/saaay71/solr-vector-scoring) to calculate the distance between the query and the documents.
+
 ### License
 
 ```
