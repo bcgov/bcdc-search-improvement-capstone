@@ -1,0 +1,8 @@
+name: bcdc_search_improvement_capstone
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pysolr
+prefix: C:\ProgramData\Miniconda3\envs\test_to
